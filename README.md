@@ -1,4 +1,4 @@
-AutoDoc-AI
+wjdiwjdwideAutoDoc-AI
 A tool that uses AI to generate documentation. Reads any project's code and spits out README, API docs, CHANGELOG — the whole thing.
 What it does
 Auto-generates README
